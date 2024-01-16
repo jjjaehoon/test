@@ -7,6 +7,7 @@
   <h5> 개발을 위해서라면 다양한 방법으로 계속 시도하는 자세를 가지고 개발에 임하고 있습니다. </h5>
 
   <br/>
+  <a href="https://velog.io/@jjjaehoon"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@jjjaehoon"/></a>
 
   ## 🛠 Tech Stack
 
@@ -25,7 +26,7 @@
 
   ## ✏️ Blog
   
-  📃<a href="https://velog.io/@jjjaehoon"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@jjjaehoon"/></a>
+  
 
   <br/>
 
