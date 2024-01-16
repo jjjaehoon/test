@@ -25,8 +25,7 @@
 
   ## ✏️ Blog
   
-  📃[![My Velog]](https://velog.io/@jjjaehoon/posts)
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40youhyeoneee&count_bg=%2320C997&title_bg=%2320C997&icon=blogger.svg&icon_color=%23FFFFFF&title=Velog&edge_flat=false"/></a>
+  📃<a href="https://velog.io/@jjjaehoon"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@jjjaehoon"/></a>
 
   <br/>
 
